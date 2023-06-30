@@ -1,0 +1,14 @@
+[
+    { "topicName": "Components", "icon": "home", "link": "/component" },
+    { "topicName": "Template Syntax", "icon": "card_membership", "link": "/tempSyntx" },
+    { "topicName": "Directives", "icon": "autorenew", "link": "/directive"},
+    { "topicName": "Component Styling", "icon": "extension", "link": "/componentStyling" },
+    { "topicName": "Component Interations", "icon": "hourglass_empty", "link": "/componentInteractions" },
+    { "topicName": "Life Cycle Methods", "icon": "cached", "link": "/lifeCycleHooks" },
+    { "topicName": "Services", "icon": "settings", "link": "/services" },
+    { "topicName": "Observables", "icon": "open_with", "link": "/observables" },
+    { "topicName": "HTTP Client", "icon": "https", "link": "/httpClients" },
+    { "topicName": "Forms", "icon": "assignment", "link": "/forms" },
+    { "topicName": "Routing", "icon": "compare_arrows", "link": "/routings" },
+    { "topicName": "Animations", "icon": "donut_large", "link": "/animations" }
+  ]
